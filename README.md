@@ -15,6 +15,7 @@ triangles, clustering coefficient distribution, existence of the triadic closure
 phenomenon in the friendship neighborhood.
 * Bridges and local bridges.
 * Gender and homophily.
+* Communities
 
 The analysis concerns a London-based inner-city street gang. All the information about the dataset can be found [here](https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/londongang). In detail:
 * [GANG NETWORK ANALYSIS.pdf](https://github.com/stef4k/Network-Analysis/blob/main/GANG%20NETWORK%20ANALYSIS.pdf) is the whole detailed analysis in pdf 
