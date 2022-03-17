@@ -17,7 +17,7 @@ phenomenon in the friendship neighborhood.
 * Gender and homophily.
 * Communities
 
-The analysis concerns a London-based inner-city street gang. All the information about the dataset can be found [here](https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/londongang). In detail:
+The analysis concerns a London-based inner-city street gang. The dataset can be found [here](https://github.com/stef4k/Network-Analysis-Assignment/tree/main/DATA). In detail:
 * [GANG NETWORK ANALYSIS.pdf](https://github.com/stef4k/Network-Analysis/blob/main/GANG%20NETWORK%20ANALYSIS.pdf) is the whole detailed analysis in pdf 
 * [ANALYSIS_PYTHON.ipynb](https://github.com/stef4k/Network-Analysis/blob/main/ANALYSIS_PYTHON.ipynb) is the analysis of the gang network using networkX (python library) in a jupyter notebook.
 
